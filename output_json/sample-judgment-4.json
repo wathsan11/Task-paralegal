@@ -1,0 +1,18 @@
+{
+  "file": "sample-judgment-4.pdf",
+  "bench": [
+    "B.P. Aluwihare",
+    "A.H.M.D.Nawaz",
+    "Murdu N.B. Fernando",
+    "A.L. Shiran Gooneratne",
+    "Jayantha Jayasuriya",
+    "L.T.B.Dehideniya"
+  ],
+  "author_judge": [
+    "Jayantha Jayasuriya"
+  ],
+  "extraction_meta": {
+    "coram_windows_found": 1,
+    "text_length": 11457
+  }
+}

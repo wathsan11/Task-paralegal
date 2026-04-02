@@ -1,0 +1,15 @@
+{
+  "file": "sample-judgment-1.pdf",
+  "bench": [
+    "H. A. G. DE SILVA",
+    "DHEERARATNE",
+    "AMERASINGHE"
+  ],
+  "author_judge": [
+    "AMERASINGHE"
+  ],
+  "extraction_meta": {
+    "coram_windows_found": 2,
+    "text_length": 19932
+  }
+}

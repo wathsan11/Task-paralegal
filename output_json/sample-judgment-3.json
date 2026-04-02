@@ -1,0 +1,16 @@
+{
+  "file": "sample-judgment-3.pdf",
+  "bench": [
+    "Yasantha Kodagoda",
+    "Eva Wanasundera",
+    "Vijitha Malalgoda Jayasinghe",
+    "Vijitha Malalgoda Jayasing"
+  ],
+  "author_judge": [
+    "Yasantha Kodagoda"
+  ],
+  "extraction_meta": {
+    "coram_windows_found": 2,
+    "text_length": 1212
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "file": "sample-judgment-2.pdf",
+  "bench": [
+    "Hon. Arjuna Obeyesekere",
+    "Hon. Priyantha Jayawardena",
+    "Hon. Murdu Fernando"
+  ],
+  "author_judge": [
+    "JAYAWARDENA"
+  ],
+  "extraction_meta": {
+    "coram_windows_found": 2,
+    "text_length": 862
+  }
+}
