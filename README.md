@@ -28,7 +28,7 @@ The system handles various PDF formats, layouts, and document structures using m
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd Task-paralegal
+   cd paralegal-lk-internship-assignment
    ```
 
 2. **Create a virtual environment:**
