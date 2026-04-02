@@ -206,7 +206,7 @@ Extarct/
 ## Project Structure
 
 ```
-Task-paralegal/
+paralegal-lk-internship-assignment/
 ├── main.py                    [Main extraction orchestrator]
 ├── requirements.txt           [Python dependencies]
 ├── README.md                  [This file]
