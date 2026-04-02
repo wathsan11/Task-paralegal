@@ -217,8 +217,7 @@ paralegal-lk-internship-assignment/
 │   ├── BranchExtract.py
 │   └── AutherExtraction.py
 ├── input_pdfs/               [Place PDFs here]
-├── output_json/              [Extraction results]
-└── Data/                     [Sample data & reference]
+└── output_json/              [Extraction results]
 ```
 
 ## Dependencies
