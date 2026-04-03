@@ -5,6 +5,10 @@ env/
 ENV/
 *.venv
 
+# uv (Python package manager)
+# uv.lock should be committed, but cache can be ignored
+.uv/
+
 # Python
 __pycache__/
 *.py[cod]

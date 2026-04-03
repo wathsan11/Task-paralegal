@@ -21,8 +21,8 @@ The system handles various PDF formats, layouts, and document structures using m
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
-- pip (Python package manager)
+- Python 3.9+
+- [uv](https://docs.astral.sh/uv/) (modern Python package manager)
 
 ### Setup
 
@@ -31,12 +31,19 @@ The system handles various PDF formats, layouts, and document structures using m
    cd paralegal-lk-internship-assignment
    ```
 
-2. **Create a virtual environment:**
+2. **Install uv (if not already installed):**
    ```bash
-   python -m venv .venv
+   pip install uv
    ```
+   Or download from [astral.sh](https://astral.sh/uv)
 
-3. **Activate the virtual environment:**
+3. **Sync dependencies:**
+   ```bash
+   uv sync
+   ```
+   This creates a virtual environment and installs all dependencies.
+
+4. **Activate the virtual environment:**
    - On Windows (PowerShell):
      ```powershell
      .\.venv\Scripts\Activate.ps1
@@ -50,9 +57,9 @@ The system handles various PDF formats, layouts, and document structures using m
      source .venv/bin/activate
      ```
 
-4. **Install dependencies:**
+5. **Download the spaCy language model:**
    ```bash
-   pip install -r requirements.txt
+   python -m spacy download en_core_web_sm
    ```
 
 ## Usage
